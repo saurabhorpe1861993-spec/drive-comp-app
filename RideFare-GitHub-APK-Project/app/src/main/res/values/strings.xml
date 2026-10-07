@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Ride Fare Evaluator</string>
+    <string name="accessibility_service_desc">Evaluates incoming ride offers and displays full screen alert with giant Accept button.</string>
+</resources>

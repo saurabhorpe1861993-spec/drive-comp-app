@@ -1,0 +1,2 @@
+-keep class com.driver.rideevaluator.parser.** { *; }
+-keep class com.driver.rideevaluator.service.** { *; }
